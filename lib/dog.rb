@@ -1,4 +1,3 @@
-class Person 
 
 class Person
   def initialize (persons_name)
