@@ -1,7 +1,7 @@
 class Person 
 
 def intialize(name)
-  @name = name
+  @name = namel
 end 
 end
   
